@@ -1,0 +1,4 @@
+# Archivo de variables
+/.env
+# Entorno virtual
+/venv
