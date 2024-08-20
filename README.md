@@ -16,13 +16,13 @@ Este script permite seguir a una lista de usuarios en GitHub usando la API de Gi
 1. Clona el repositorio:
 
    ```bash
-   git clone 
+   git clone https://github.com/E1DIGITALPF/TeSigoEnGitHub.git
    ```
 
 2. Navega al directorio del proyecto:
 
    ```bash
-   cd tu_repositorio
+   cd TeSigoEnGitHub
    ```
 
 3. Crea un entorno virtual (opcional pero recomendado):
