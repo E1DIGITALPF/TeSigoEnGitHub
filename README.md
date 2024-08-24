@@ -9,6 +9,7 @@ Allá en el pasado quedaron esas largas horas siguiendo a tus desarrolladores, e
 ## Contenido
 
 - [Instalación](#instalación)
+- [Preparando las listas de usuarios](#Preparando-las-listas-de-usuarios)
 - [Configuración](#configuración)
 - [Estructura de Archivos](#estructura-de-archivos)
 - [Optimización del flujo](#optimización-del-flujo)
@@ -132,7 +133,6 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 ## Licencia
 
-<<<<<<< HEAD
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles. Se considera importante mencionar también que este script no representa spam ni ningún otro tipo de software malicioso. Seguir a personas en redes sociales no se considera una mala práctica, hacerlo de manera masiva solamente es, sin más, un "enhancement" dentro de los límites impuestos en los Términos de Uso de dicha red.
 
 ## A futuro
